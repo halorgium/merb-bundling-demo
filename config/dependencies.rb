@@ -1,6 +1,6 @@
 add_source "http://gems.rubyforge.org/"
 
-add_gem 'rspec', '1.1.11'
+add_gem 'rspec', '=1.1.11'
 add_gem 'rake'
 add_gem 'rcov'
 add_gem 'mongrel'
