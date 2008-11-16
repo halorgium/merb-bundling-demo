@@ -1,4 +1,6 @@
 .DS_Store
+.gemrc
+gems
 log/*
 tmp/*
 TAGS

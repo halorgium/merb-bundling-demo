@@ -1,7 +1,6 @@
 # Go to http://wiki.merbivore.com/pages/init-rb
- 
-# Specify a specific version of a dependency
-# dependency "RedCloth", "> 3.0"
+require File.dirname(__FILE__) + "/rubundler"
+Rubundler.new.setup_requirements
 
 #  use_orm :none
 use_test :rspec
